@@ -1,0 +1,19 @@
+{
+    "name": "liwanli/0809",
+    "authors": [
+        {
+            "name": "liwanli",
+            "email": "qww4647455@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "files":[
+            "houdunwang/core/functions.php"
+        ],
+        "psr-4":{
+            "houdunwang\\":"houdunwang\\",
+            "app\\":"app"
+        }
+    }
+}
